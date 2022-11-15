@@ -1,0 +1,14 @@
+
+{
+    "posts" : [
+    {
+    "id": 1,
+    "name": "Yan0606",
+    "addresse": "16 Bis Rue du Moulin Vert",
+    "mail":"yan.grouzelle@edu.ece.fr"
+  }
+    ],
+     "profile": {
+      "name": "typicode"
+    }
+  }
